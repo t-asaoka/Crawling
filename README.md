@@ -1,1 +1,1 @@
-# JSONL File Converted from Japanese Text Collected by Web Crawling
+# JSONL Files Converted from Japanese Texts Collected by Web Crawling
